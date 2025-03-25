@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Project3MisbahSyed" parent="Theme.AppCompat.DayNight">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/brown</item>
+        <!--<item name="android:textColorPrimary">@color/white</item> -->
+        <item name="android:windowBackground">@color/beige</item>
+        <item name="android:textColor">@color/darkGrey</item>
+    </style>
+
+    <style name="Theme.Project3MisbahSyed" parent="Base.Theme.Project3MisbahSyed" />
+</resources>

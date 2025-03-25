@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My Directory</string>
+
+    <string name="warning_title">Warning</string>
+    <string name="warning_msg">This coffee has a bold and slightly bitter taste. Are you sure to continue?</string>
+    <string name="pos_button">Yes</string>
+    <string name="neg_button">No</string>
+
+    <string name="uninstall">Uninstall</string>
+    <string name="information">Information</string>
+
+    <string name="my_key">selected_item</string>
+
+    <string name="name_1">Espresso</string>
+    <string name="name_2">Latte</string>
+    <string name="name_3">Cappuccino</string>
+    <string name="name_4">Mocha</string>
+    <string name="name_5">Macchiato</string>
+    <string name="name_6">Americano</string>
+
+    <string name="des_1">Composition: 1 shot of espresso (about 1 oz). Description: A strong, concentrated coffee made by forcing hot water through finely-ground coffee under high pressure. It serves as the base for many other coffee drinks and has a rich, bold flavor with a creamy layer of foam on top, known as crema.</string>
+    <string name="des_2">Composition: 1 part espresso + 2 parts steamed milk + a thin layer of foam. Description: A creamy and smooth coffee drink with a mild coffee flavor, perfect for those who enjoy the richness of milk. The thin foam layer on top adds a velvety texture.</string>
+    <string name="des_3">Composition: 1 part espresso + 1 part steamed milk + 1 part milk foam (equal thirds). Description: A harmonious balance of strong espresso, creamy steamed milk, and airy foam. It\'s typically served in smaller portions compared to a latte and has a more pronounced coffee flavor.</string>
+    <string name="des_4">Composition: 1 part espresso + 1 part steamed milk + 1 part chocolate syrup (or powder) + optional whipped cream. Description: A chocolate lover\'s coffee drink that combines the boldness of espresso with the sweetness of chocolate and creaminess of milk. It\'s a delightful treat, often topped with whipped cream or cocoa powder.</string>
+    <string name="des_5">Composition: 1 shot of espresso "stained" with a small amount of milk foam (for a traditional macchiato) or layered with steamed milk and foam (for a modern macchiato). Description: The traditional macchiato is a bold espresso with just a hint of milk to soften it, while the modern versions (like caramel macchiatos) are sweeter and milkier.</string>
+    <string name="des_6">Composition: 1 part espresso + 2 parts hot water (or a 1:1 ratio for a stronger flavor). Description: An Americano is a diluted espresso that mimics the strength and consistency of regular black coffee but retains the rich flavor of espresso.</string>
+
+    <string name="my_directory">Misbah Syed\'s Coffee List</string>
+    <string name="tel_888_8888">tel:888-8888</string>
+
+</resources>
